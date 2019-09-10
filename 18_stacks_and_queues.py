@@ -1,6 +1,5 @@
 import sys
 
-
 class Solution:
     # Write your code here
     def __init__(self):
