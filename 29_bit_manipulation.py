@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-bitwise-and/problem
+
 import sys
 t = int(input().strip())
 for a in range(t):

@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-binary-search-trees/problem
+
 class Node:
     def __init__(self,data):
         self.right=self.left=None

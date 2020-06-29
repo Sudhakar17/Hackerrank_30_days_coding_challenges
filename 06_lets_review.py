@@ -1,3 +1,5 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-review-loop/problem
 """
 Task
 Given a string S of length N that is indexed from  0 to N-1 ,

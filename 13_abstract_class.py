@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-abstract-classes/problem
+
 from abc import ABCMeta, abstractmethod
 class Book(object, metaclass=ABCMeta):
     def __init__(self,title,author):

@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-more-exceptions/problem
+
 class Calculator: 
     def power(self,n,p):
         if n>=0 and p>=0:

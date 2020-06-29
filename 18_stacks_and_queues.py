@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-queues-stacks/problem
+
 import sys
 
 class Solution:

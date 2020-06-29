@@ -1,3 +1,6 @@
+// Question Link:
+// https://www.hackerrank.com/challenges/30-generics/problem
+
 #include <iostream>
 #include <vector>
 #include <string>

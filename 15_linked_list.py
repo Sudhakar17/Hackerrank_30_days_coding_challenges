@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-linked-list/problem
+
 class Node:
     def __init__(self,data):
         self.data = data

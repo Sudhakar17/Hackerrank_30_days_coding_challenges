@@ -1,3 +1,6 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-nested-logic/problem
+
 Da,Ma,Ya = input().strip().split(' ')
 De,Me,Ye = input().strip().split(' ')
 

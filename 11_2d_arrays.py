@@ -1,3 +1,7 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-2d-arrays/problem
+
+
 """Task : Calculate the hour glass sum for every hour glass in A, then print the maximum hour glass sum
 
 Sample Input :

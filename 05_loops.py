@@ -1,3 +1,5 @@
+# Question Link:
+# https://www.hackerrank.com/challenges/30-loops/problem
 """
 Task
 Given an integer,n , print its first 10 multiples. Each multiple n x i
